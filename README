@@ -1,0 +1,3 @@
+Clone this repository as "jni" inside the poco distribution.
+Run ./jni/prepare.sh
+Run ndk-build
